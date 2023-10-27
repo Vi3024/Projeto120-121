@@ -1,0 +1,104 @@
+h2 {
+    font-family: 'Bitter', serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Cookie', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    color: red;
+}
+
+.googleLens {
+    width: 150px;
+    height: 150px;
+}
+
+h3 {
+    font-family: monospace;
+    font-size: 40px;
+    color: rgb(77, 77, 255);
+}
+
+.batom_image_and_result {
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    height: 600px;
+}
+
+
+h5 {
+    background-color: white;
+    border-radius: 20px;
+    height: 50px;
+    font-size: 20px;
+    text-align: left;
+    color: black;
+}
+
+.b1 {
+    color: rgb(255, 35, 35);
+}
+
+.batom {
+    height: 550px;
+    border-radius: 20px;
+}
+
+.beijaflor_image_and_result {
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    height: 600px; 
+}
+
+.beija-flor {
+    height: 550px;
+    border-radius: 20px;
+}
+
+.garrafinha_image_and_result {
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    height: 600px; 
+}
+
+.garrafinha {
+    height: 550px;
+    border-radius: 20px;
+}
+
+.perfume_image_and_result {
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    height: 600px; 
+}
+
+.perfume {
+    height: 550px;
+    border-radius: 20px;
+}
+
+.relógio_image_and_result {
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    height: 600px; 
+}
+
+.relógio {
+    height: 550px;
+    border-radius: 20px;
+}
+
+.tênis_image_and_result {
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    height: 600px; 
+}
+
+.tênis {
+    height: 550px;
+    border-radius: 20px;
+}
